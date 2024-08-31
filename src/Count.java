@@ -42,7 +42,7 @@ public class Count {
 
 
 
-        System.out.println(" 3 new objects created have the value of 0 set as static so the increments are not saved to memory");
+        System.out.println("3 new objects created have the value of 0 set as static so the increments are not saved to memory");
 
         Count count2 = new Count();
         count2.display();
